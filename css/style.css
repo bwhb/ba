@@ -1,0 +1,74 @@
+.nav-justified > li > a {
+  
+  background-color: #ceddbe ;
+}
+body{
+  font-family: "Open Sans";
+
+}
+.jumbotron > h1{
+  color: #49716b;
+  font-family: "Great Vibes";
+}
+h2{
+   border-style: solid; 
+   border-color: #ceddbe;   
+   border-width: 2px 0 0 0;
+   padding:  10px;
+   font-family: "Great Vibes";
+}
+.nav-justified > .active > a, .nav-justified > .active > a:hover, .nav-justified > .active > a:focus {
+    background-color: #49716b;
+    color: white;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.15) inset;
+    }
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: #49716b;
+    border-bottom-color: #49716b;
+    border-left-color: #49716b;
+    border-right-color: #49716b;
+    border-top-color: #49716b;
+    color: #fff;
+    z-index: 2;
+}
+#attraktionen,#mittagessen,#abendprogramm,#programmauswahl,nav,#fertig{
+  display: none;
+}
+
+img{
+  padding: 10px;
+  width: 260px
+}
+.btn-primary{
+    background-color: #49716b !important;
+}
+
+.star-rating-control{
+  display: block;
+  padding:  0 15px 15px 0;
+}
+p.bg-success, p.bg-danger{
+  padding: 10px  
+}
+div > p.text-justify{
+  text-indent: 1em;
+  padding-bottom: 1em;
+}
+#betriebsausflug{
+  background-color: #49716b;
+  color: #fff;
+  
+}
+#betriebsausflug > h1{
+  color: #fff;
+}
+.atomino{
+  height: 297px !important;
+  width: 203px !important;
+
+}
+
+.info{
+  display: none;
+
+}

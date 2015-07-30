@@ -1,0 +1,49 @@
+[{
+  "kurz": "gun",
+  "name": "Gunzenhauser",
+  "plaetze": {
+    "nachmittag1": -1,
+    "nachmittag2": -1,
+    "vormittag": 25
+  }
+}, {
+  "kurz": "mus",
+  "name": "Museum f\u00fcr Arch\u00e4ologie",
+  "plaetze": {
+    "nachmittag1": 996,
+    "nachmittag2": 993,
+    "vormittag": 990
+  }
+}, {
+  "kurz": "sta",
+  "name": "Stadtf\u00fchrung",
+  "plaetze": {
+    "nachmittag1": 25,
+    "nachmittag2": -1,
+    "vormittag": 25
+  }
+}, {
+  "kurz": "kun",
+  "name": "Kunstsammlung",
+  "plaetze": {
+    "nachmittag1": 25,
+    "nachmittag2": 25,
+    "vormittag": -1
+  }
+}, {
+  "kurz": "auf",
+  "name": "Auf eigene Faust",
+  "plaetze": {
+    "nachmittag1": 980,
+    "nachmittag2": 995,
+    "vormittag": 990
+  }
+}, {
+  "kurz": "kos",
+  "name": "Kosmonautenzentrum",
+  "plaetze": {
+    "nachmittag1": -1,
+    "nachmittag2": 30,
+    "vormittag": -1
+  }
+}]
